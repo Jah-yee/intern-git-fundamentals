@@ -1,4 +1,4 @@
-FLAGS = {"new_dashbord": False, "beta_calls": True}
+FLAGS = {"new_dashboard": False, "beta_calls": True}
 
 
 def is_enabled(name):
